@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>SOS.e9e8bc82-6a09-11ef-bbde-b136e7a848b0.jpg</filename>
+	<path>C:\Users\p_sam\OneDrive\Desktop\SIH24\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\SOS.e9e8bc82-6a09-11ef-bbde-b136e7a848b0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SOS</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>119</ymin>
+			<xmax>367</xmax>
+			<ymax>374</ymax>
+		</bndbox>
+	</object>
+</annotation>
